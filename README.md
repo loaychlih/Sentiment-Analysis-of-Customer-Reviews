@@ -33,6 +33,8 @@ The core features of this project include:
 | Cardiff NLP | 0.9083   | 0.9101    | 0.9083  | 0.9054   |
 
 - **Sentiment Analysis Models on Confidence, Uncertainty, and Correlation Results :**
+  ![confidence plot comparison](confidence_plot_comparison.png)
+
 
   
 
