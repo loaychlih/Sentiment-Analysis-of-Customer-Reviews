@@ -34,6 +34,9 @@ The core features of this project include:
 
 - **Sentiment Analysis Models on Confidence, Uncertainty, and Correlation Results :**
   ![confidence plot comparison](Confidence_plot_comparison.PNG)
+- **Aspect-based sentiment analysis focusing on specific aspects like service, price, and quality :**
+  ![Aspect-based sentiment analysis](Aspect_based_sentiment_comparison.PNG)
+  
 
 
   
