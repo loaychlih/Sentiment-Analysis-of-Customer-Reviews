@@ -27,10 +27,14 @@ The core features of this project include:
 
 | Model       | Accuracy | Precision | Recall  | F1-score |
 |-------------|----------|-----------|---------|----------|
-| RoBERTa     | 0.9339   | 0.9341    | 0.9339  | 0.9328   |
+| RoBERTa     | **0.9339**   | **0.9341**    | **0.9339**  | **0.9328**   |
 | DistilBERT  | 0.8785   | 0.8823    | 0.8785  | 0.8724   |
 | DeBERTa     | 0.9168   | 0.9193    | 0.9168  | 0.9142   |
 | Cardiff NLP | 0.9083   | 0.9101    | 0.9083  | 0.9054   |
+
+- **Sentiment Analysis Models on Confidence, Uncertainty, and Correlation Results :**
+
+  
 
 ### Required packages
 
