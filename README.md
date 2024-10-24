@@ -8,7 +8,7 @@ The core features of this project include:
 - Web scraping of customer reviews from the Zalando website.
 - Loading and preprocessing of the scraped reviews from a CSV file.
 - Sentiment classification using multiple pretrained models such as:
-  - **RoBERTa** (`siebert/sentiment-roberta-large-english`)
+  - **RoBERTas** (`siebert/sentiment-roberta-large-english`)
   - **Cardiff NLP RoBERTa** (`cardiffnlp/twitter-roberta-base-sentiment`)
   - **DistilBERT** (`distilbert-base-uncased-finetuned-sst-2-english`)
   - **DeBERTa** (`yangheng/deberta-v3-large-absa-v1.1`)
