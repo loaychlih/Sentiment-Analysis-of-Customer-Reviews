@@ -50,4 +50,8 @@ To execute this project, ensure that you have the following dependencies install
 - Hugging Face `transformers`
 - NLTK (for natural language processing tasks)
 - Seaborn and Matplotlib (for data visualization)
+- langchain
+- streamlit
+- pandasai
+- langchain_community
 
