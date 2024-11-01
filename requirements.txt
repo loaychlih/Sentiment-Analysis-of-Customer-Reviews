@@ -1,4 +1,0 @@
-langchain
-streamlit
-pandasai
-langchain_community
